@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.10"
   latestRelease: "v0.10.10"
   latestPrerelease: "v0.10.2"
-  collectedAt: 2026-09-10T21:35:55Z
+  collectedAt: 2026-09-10T22:13:30Z
 timeline:
   created: 2019-06-04
   lastCommit: 2026-03-25
@@ -85,7 +85,7 @@ total:
   commit: 462
 ---
 path: /home/runner/.x-repo/github.com/phiresky/ripgrep-all
-collectedAt: 2026-09-10T21:35:57Z
+collectedAt: 2026-09-10T22:13:31Z
 loc:
   Rust:
     code: 3297
@@ -220,7 +220,7 @@ checks:
     details:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
-  - rga-preproc
-  - rga
   - rga-fzf
   - rga-fzf-open
+  - rga
+  - rga-preproc
