@@ -22,11 +22,20 @@ x install ripgrep-all
 - **Latest**: `v0.10.10` (2025-11-09)
 - **Last commit**: 2026-03-25
 - **Assets in release**: 5
-- **Published**: 2025-11-09T20:25:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ripgrep_all-v0.10.10-aarch64-apple-darwin.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-aarch64-apple-darwin.tar.gz) | 6.7 MiB | `native/darwin/arm64` |
+| [ripgrep_all-v0.10.10-aarch64-unknown-linux-gnu.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-aarch64-unknown-linux-gnu.tar.gz) | 6.9 MiB | `native/linux/arm64/glibc` |
+| [ripgrep_all-v0.10.10-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-arm-unknown-linux-gnueabihf.tar.gz) | 6.8 MiB | `native/linux/arm/glibc` |
+| [ripgrep_all-v0.10.10-x86_64-apple-darwin.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-apple-darwin.tar.gz) | 7.3 MiB | `native/darwin/x64` |
+| [ripgrep_all-v0.10.10-x86_64-unknown-linux-musl.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 9,839 · **Forks**: 216 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,840 · **Forks**: 216 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -67,8 +76,8 @@ Lowest-scoring checks:
 Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ripgrep-all` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ripgrep-all.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ripgrep-all.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:00:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:40Z._
