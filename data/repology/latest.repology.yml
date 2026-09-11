@@ -34,14 +34,6 @@
     - Unicode-3.0
   categories:
     - sys-apps
-- repo: gnuguix
-  srcname: ripgrep-all
-  binname: ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: null
-  status: newest
-  summary: Line-oriented search tool for text and binary formats
 - repo: altsisyphus
   srcname: ripgrep-all
   binnames:
@@ -198,6 +190,14 @@
     - eduardo@freebsd.org
   categories:
     - textproc
+- repo: gnuguix
+  srcname: ripgrep-all
+  binname: ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: null
+  status: newest
+  summary: Line-oriented search tool for text and binary formats
 - repo: homebrew
   srcname: ripgrep-all
   visiblename: ripgrep-all
@@ -281,6 +281,34 @@
     - Unicode-3.0
   categories:
     - sys-apps
+- repo: solus
+  srcname: ripgrep-all
+  binname: ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: null
+  status: newest
+  summary: ripgrep-all (rga) allows you to search PDFs, e-books, Office documents, archive formats and more
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - AGPL-3.0-or-later
+  categories:
+    - system.utils
+- repo: solus
+  srcname: ripgrep-all
+  binname: ripgrep-all-dbginfo
+  visiblename: ripgrep-all-dbginfo
+  version: 0.10.10
+  origversion: null
+  status: newest
+  summary: Debug symbols for ripgrep-all
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - AGPL-3.0-or-later
+  categories:
+    - debug
 - repo: liguros_develop
   srcname: sys-apps/ripgrep-all
   visiblename: sys-apps/ripgrep-all
@@ -330,7 +358,7 @@
   binname: ripgrep-all
   visiblename: ripgrep-all
   version: 0.10.10
-  origversion: 0.10.10-2
+  origversion: 0.10.10-3
   status: newest
   summary: 'rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.'
   licenses:
@@ -341,7 +369,7 @@
   binname: ripgrep-all
   visiblename: ripgrep-all
   version: 0.10.10
-  origversion: 0.10.10-2
+  origversion: 0.10.10-3
   status: newest
   summary: 'rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.'
   licenses:
@@ -466,7 +494,7 @@
     - ripgrep-all
   visiblename: ripgrep-all
   version: 0.10.10
-  origversion: 0.10.10+dfsg-3
+  origversion: 0.10.10+dfsg-4
   status: newest
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
@@ -474,34 +502,6 @@
     - werdahias@debian.org
   categories:
     - utils
-- repo: solus
-  srcname: ripgrep-all
-  binname: ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: null
-  status: newest
-  summary: ripgrep-all (rga) allows you to search PDFs, e-books, Office documents, archive formats and more
-  maintainers:
-    - david@davidjharder.ca
-  licenses:
-    - AGPL-3.0-or-later
-  categories:
-    - system.utils
-- repo: solus
-  srcname: ripgrep-all
-  binname: ripgrep-all-dbginfo
-  visiblename: ripgrep-all-dbginfo
-  version: 0.10.10
-  origversion: null
-  status: newest
-  summary: Debug symbols for ripgrep-all
-  maintainers:
-    - david@davidjharder.ca
-  licenses:
-    - AGPL-3.0-or-later
-  categories:
-    - debug
 - repo: termux
   srcname: ripgrep-all
   binname: ripgrep-all
