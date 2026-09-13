@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6994828,
       "digest": "sha256:9deeaa927779078568832b5b69ae57986ca917f24974bb4976c062f632846856",
-      "download_count": 7696,
+      "download_count": 7808,
       "created_at": "2025-11-09T20:30:01Z",
       "updated_at": "2025-11-09T20:30:02Z",
       "browser_download_url": "https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7184646,
       "digest": "sha256:2cd875ab6c78b27e4830b5bca92c570a8a8dcfb368bc71b189b65ac01fbc3020",
-      "download_count": 4491,
+      "download_count": 4553,
       "created_at": "2025-11-09T20:30:16Z",
       "updated_at": "2025-11-09T20:30:16Z",
       "browser_download_url": "https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7685275,
       "digest": "sha256:3d9fe75878ddab6a8e7abb66ab13af1bdea2844a02c479fb293b7bfb258ab353",
-      "download_count": 320,
+      "download_count": 324,
       "created_at": "2025-11-09T20:30:27Z",
       "updated_at": "2025-11-09T20:30:28Z",
       "browser_download_url": "https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8375790,
       "digest": "sha256:a969c25b182ac84aa672518313b5f741091decf7d93d03a020bcfe517b9ff4e8",
-      "download_count": 27573,
+      "download_count": 27883,
       "created_at": "2025-11-09T20:30:40Z",
       "updated_at": "2025-11-09T20:30:41Z",
       "browser_download_url": "https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-unknown-linux-musl.tar.gz"
