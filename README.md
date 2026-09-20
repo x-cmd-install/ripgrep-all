@@ -4,7 +4,7 @@
 
 rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-![ripgrep-all](https://repo.x-cmd.io/ripgrep-all.svg)
+[![x-cmd/install — ripgrep-all Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ripgrep-all.svg)](https://x-cmd.com/install/ripgrep-all)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,847 · **Forks**: 218 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,848 · **Forks**: 218 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 59 · **Open PRs**: 9 · **Closed issues**: 164 · **Open issues**: 63 · **Commits**: 469
+- **Releases**: 12 · **Merged PRs**: 59 · **Open PRs**: 6 · **Closed issues**: 164 · **Open issues**: 63 · **Commits**: 469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 0 | 2 | 0 | 1 | 0 | 5 |
-| 90d | 2026-06-20 | 0 | 2 | 0 | 1 | 0 | 5 |
-| last180d | 2026-03-22 | 0 | 3 | 0 | 1 | 6 | 7 |
-| 360d | 2025-09-23 | 1 | 6 | 5 | 4 | 10 | 13 |
-| last720d | 2024-09-28 | 3 | 15 | 6 | 14 | 33 | 52 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 1 | 0 | 5 |
+| 90d | 2026-06-22 | 0 | 2 | 0 | 1 | 0 | 5 |
+| last180d | 2026-03-24 | 0 | 3 | 0 | 1 | 5 | 7 |
+| 360d | 2025-09-25 | 1 | 6 | 2 | 4 | 10 | 13 |
+| last720d | 2024-09-30 | 3 | 15 | 3 | 14 | 33 | 52 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:06:45Z._
