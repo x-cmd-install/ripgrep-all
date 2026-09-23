@@ -4,7 +4,7 @@
 
 rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-[![x-cmd/install — ripgrep-all Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ripgrep-all.svg)](https://x-cmd.com/install/ripgrep-all)
+[![x-cmd/install — ripgrep-all Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ripgrep-all.svg)](https://x-cmd.com/install/ripgrep-all)
 
 ## Install
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 59 · **Open PRs**: 8 · **Closed issues**: 164 · **Open issues**: 63 · **Commits**: 469
+- **Releases**: 12 · **Merged PRs**: 59 · **Open PRs**: 17 · **Closed issues**: 164 · **Open issues**: 63 · **Commits**: 469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 2 | 0 | 0 | 5 |
-| last60d | 2026-07-24 | 0 | 2 | 2 | 1 | 0 | 5 |
-| 90d | 2026-06-24 | 0 | 2 | 2 | 1 | 0 | 5 |
-| last180d | 2026-03-26 | 0 | 2 | 2 | 1 | 5 | 5 |
-| 360d | 2025-09-27 | 1 | 6 | 4 | 4 | 10 | 13 |
-| last720d | 2024-10-02 | 3 | 15 | 5 | 14 | 33 | 52 |
+| 30d | 2026-08-24 | 0 | 2 | 11 | 0 | 0 | 5 |
+| last60d | 2026-07-25 | 0 | 2 | 11 | 1 | 0 | 5 |
+| 90d | 2026-06-25 | 0 | 2 | 11 | 1 | 0 | 5 |
+| last180d | 2026-03-27 | 0 | 2 | 11 | 1 | 5 | 5 |
+| 360d | 2025-09-28 | 1 | 6 | 13 | 4 | 10 | 13 |
+| last720d | 2024-10-03 | 3 | 15 | 14 | 14 | 33 | 52 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:05:34Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:11:12Z._
