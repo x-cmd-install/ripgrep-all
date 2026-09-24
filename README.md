@@ -26,13 +26,13 @@ Total: **3,761** lines of code across **34** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2.9 / 10**
+Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (4/10) — Found 6/15 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,854 · **Forks**: 218 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,855 · **Forks**: 218 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 2 | 11 | 0 | 0 | 5 |
-| last60d | 2026-07-25 | 0 | 2 | 11 | 1 | 0 | 5 |
-| 90d | 2026-06-25 | 0 | 2 | 11 | 1 | 0 | 5 |
-| last180d | 2026-03-27 | 0 | 2 | 11 | 1 | 5 | 5 |
-| 360d | 2025-09-28 | 1 | 6 | 13 | 4 | 10 | 13 |
-| last720d | 2024-10-03 | 3 | 15 | 14 | 14 | 33 | 52 |
+| 30d | 2026-08-25 | 0 | 2 | 11 | 0 | 0 | 5 |
+| last60d | 2026-07-26 | 0 | 2 | 11 | 1 | 0 | 5 |
+| 90d | 2026-06-26 | 0 | 2 | 11 | 1 | 0 | 5 |
+| last180d | 2026-03-28 | 0 | 2 | 11 | 1 | 5 | 5 |
+| 360d | 2025-09-29 | 1 | 6 | 13 | 4 | 10 | 13 |
+| last720d | 2024-10-04 | 3 | 15 | 14 | 14 | 32 | 52 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:11:12Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:51:47Z._
