@@ -1,14 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ripgrep-all
-  binname: ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: 0.10.10-3
-  status: newest
-  summary: 'rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.'
-  licenses:
-    - AGPL-3.0-or-later
 - repo: manjaro_stable
   subrepo: extra
   srcname: ripgrep-all
@@ -16,6 +5,17 @@
   visiblename: ripgrep-all
   version: 0.10.10
   origversion: 0.10.10-2
+  status: newest
+  summary: 'rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.'
+  licenses:
+    - AGPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ripgrep-all
+  binname: ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: 0.10.10-3
   status: newest
   summary: 'rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.'
   licenses:
@@ -167,31 +167,6 @@
     - eduardo@freebsd.org
   categories:
     - textproc
-- repo: termux
-  srcname: ripgrep-all
-  binname: ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: 1:0.10.10
-  status: newest
-  summary: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
-  maintainers:
-    - termux@github
-- repo: ubuntu_26_04
-  subrepo: resolute-updates/universe
-  srcname: ripgrep-all
-  binnames:
-    - ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: 0.10.10+dfsg-2build1
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - debian@zhan.science
-    - werdahias@debian.org
-  categories:
-    - universe/utils
 - repo: gentoo
   srcname: sys-apps/ripgrep-all
   visiblename: sys-apps/ripgrep-all
@@ -319,21 +294,6 @@
     - Unicode-3.0
   categories:
     - sys-apps
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: ripgrep-all
-  binnames:
-    - ripgrep-all
-  visiblename: ripgrep-all
-  version: 0.10.10
-  origversion: 0.10.10+dfsg-2
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - debian@zhan.science
-    - werdahias@debian.org
-  categories:
-    - universe/utils
 - repo: liguros_develop
   srcname: sys-apps/ripgrep-all
   visiblename: sys-apps/ripgrep-all
@@ -540,6 +500,46 @@
     - AGPL-3.0-or-later
   categories:
     - debug
+- repo: termux
+  srcname: ripgrep-all
+  binname: ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: 1:0.10.10
+  status: newest
+  summary: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
+  maintainers:
+    - termux@github
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: ripgrep-all
+  binnames:
+    - ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: 0.10.10+dfsg-2
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - debian@zhan.science
+    - werdahias@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_26_04
+  subrepo: resolute-updates/universe
+  srcname: ripgrep-all
+  binnames:
+    - ripgrep-all
+  visiblename: ripgrep-all
+  version: 0.10.10
+  origversion: 0.10.10+dfsg-2build1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - debian@zhan.science
+    - werdahias@debian.org
+  categories:
+    - universe/utils
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: ripgrep-all
