@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,915 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,916 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 2 | 12 | 0 | 0 | 5 |
-| 90d | 2026-08-07 | 0 | 2 | 12 | 0 | 0 | 5 |
-| last180d | 2026-05-09 | 0 | 2 | 12 | 1 | 1 | 5 |
-| 360d | 2025-11-10 | 0 | 4 | 14 | 3 | 9 | 8 |
-| last720d | 2024-11-15 | 3 | 14 | 15 | 13 | 30 | 48 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 2 | 12 | 0 | 0 | 5 |
+| 90d | 2026-08-08 | 0 | 2 | 12 | 0 | 0 | 5 |
+| last180d | 2026-05-10 | 0 | 2 | 12 | 1 | 1 | 5 |
+| 360d | 2025-11-11 | 0 | 4 | 14 | 3 | 9 | 8 |
+| last720d | 2024-11-16 | 3 | 14 | 15 | 13 | 30 | 48 |
 
 ## Release assets
 
@@ -74,20 +74,6 @@ Lowest-scoring checks:
 | [ripgrep_all-v0.10.10-x86_64-apple-darwin.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-apple-darwin.tar.gz) | 7.3 MiB | `native/darwin/x64` |
 | [ripgrep_all-v0.10.10-x86_64-unknown-linux-musl.tar.gz](https://github.com/phiresky/ripgrep-all/releases/download/v0.10.10/ripgrep_all-v0.10.10-x86_64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **45** distros on [repology.org](https://repology.org/project/ripgrep-all). **34** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.10.10` | ✅ latest |
-| Debian 14 | `0.10.10` | ✅ latest |
-| Ubuntu 26.04 LTS | `0.10.10` | ✅ latest |
-| Arch | `0.10.10` | ✅ latest |
-| Homebrew | `0.10.10` | ✅ latest |
-| Nix unstable | `0.10.10` | ✅ latest |
-| Void | `0.10.10` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ripgrep-all` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +83,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:48:09Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:43:46Z._
