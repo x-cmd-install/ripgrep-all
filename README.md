@@ -24,16 +24,6 @@ Total: **3,761** lines of code across **34** files in the top 5 languages.
 | Sh | 14 | 3 | 5 | 3 |
 | Markdown | 0 | 811 | 253 | 4 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.3 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (4/10) — Found 6/15 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/phiresky/ripgrep-all>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,921 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,924 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 2 | 12 | 0 | 0 | 5 |
-| 90d | 2026-08-11 | 0 | 2 | 12 | 0 | 0 | 5 |
-| last180d | 2026-05-13 | 0 | 2 | 12 | 1 | 1 | 5 |
-| 360d | 2025-11-14 | 0 | 4 | 14 | 3 | 9 | 8 |
-| last720d | 2024-11-19 | 3 | 14 | 15 | 13 | 30 | 48 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 2 | 12 | 0 | 0 | 5 |
+| 90d | 2026-08-12 | 0 | 2 | 12 | 0 | 0 | 5 |
+| last180d | 2026-05-14 | 0 | 2 | 12 | 1 | 1 | 5 |
+| 360d | 2025-11-15 | 0 | 4 | 14 | 3 | 9 | 8 |
+| last720d | 2024-11-20 | 3 | 14 | 15 | 13 | 30 | 48 |
 
 ## Release assets
 
@@ -97,4 +87,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:23:54Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:22:37Z._
