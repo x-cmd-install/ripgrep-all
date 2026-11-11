@@ -37,7 +37,7 @@ Total: **3,761** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,924 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 9,927 · **Forks**: 225 · **Open issues**: 227 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,761** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 2 | 12 | 0 | 0 | 5 |
-| 90d | 2026-08-12 | 0 | 2 | 12 | 0 | 0 | 5 |
-| last180d | 2026-05-14 | 0 | 2 | 12 | 1 | 1 | 5 |
-| 360d | 2025-11-15 | 0 | 4 | 14 | 3 | 9 | 8 |
-| last720d | 2024-11-20 | 3 | 14 | 15 | 13 | 30 | 48 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 2 | 12 | 0 | 0 | 5 |
+| 90d | 2026-08-13 | 0 | 2 | 12 | 0 | 0 | 5 |
+| last180d | 2026-05-15 | 0 | 2 | 12 | 1 | 1 | 5 |
+| 360d | 2025-11-16 | 0 | 4 | 14 | 3 | 9 | 8 |
+| last720d | 2024-11-21 | 3 | 14 | 15 | 13 | 30 | 48 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **3,761** lines of code across **34** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/ripgrep-all). **38** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **46** distros on [repology.org](https://repology.org/project/ripgrep-all). **37** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -74,7 +74,7 @@ Reported by **47** distros on [repology.org](https://repology.org/project/ripgre
 | Debian 14 | `0.10.10` | ✅ latest |
 | Ubuntu 26.04 LTS | `0.10.10` | ✅ latest |
 | Arch | `0.10.10` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.10.10` | ✅ latest |
 | Nix unstable | `0.10.10` | ✅ latest |
 | Void | `0.10.10` | ✅ latest |
 
@@ -87,4 +87,4 @@ Install metadata for ripgrep-all lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:22:37Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:18:01Z._
