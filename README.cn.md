@@ -24,6 +24,16 @@ x install ripgrep-all
 | Sh | 14 | 3 | 5 | 3 |
 | Markdown | 0 | 811 | 253 | 4 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.3 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (4/10) — Found 6/15 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/phiresky/ripgrep-all>
@@ -37,7 +47,7 @@ x install ripgrep-all
 
 ## 流行度
 
-- **Star**: 9,931 · **Fork**: 226 · **开放 issue**: 227 · **贡献者**: 34
+- **Star**: 9,933 · **Fork**: 226 · **开放 issue**: 227 · **贡献者**: 34
 
 ## 累计统计
 
@@ -47,12 +57,12 @@ x install ripgrep-all
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 12 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 2 | 12 | 0 | 0 | 5 |
-| last180d | 2026-05-21 | 0 | 2 | 12 | 1 | 1 | 5 |
-| 360d | 2025-11-22 | 0 | 4 | 13 | 2 | 9 | 8 |
-| last720d | 2024-11-27 | 3 | 13 | 15 | 13 | 27 | 47 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 12 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 2 | 12 | 0 | 0 | 5 |
+| last180d | 2026-05-23 | 0 | 2 | 12 | 1 | 1 | 5 |
+| 360d | 2025-11-24 | 0 | 4 | 13 | 2 | 9 | 8 |
+| last720d | 2024-11-29 | 3 | 13 | 15 | 13 | 27 | 46 |
 
 ## Release 资产
 
@@ -87,4 +97,4 @@ ripgrep-all 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:44:17Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:43:25Z._
